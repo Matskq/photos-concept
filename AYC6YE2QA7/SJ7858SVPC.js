@@ -1,6 +1,6 @@
 function opnLine() {
     /*// BG //*/
-    document.body.style.backgroundImage = "url(../U4FC36S2RX/2021/400.jpg)";
+    document.body.style.backgroundImage = "url(./U4FC36S2RX/2021/400.jpg)";
 
     /*// TAB //*/
     document.getElementById("Z81GT").style.display = "block";
@@ -24,7 +24,7 @@ function opnLine() {
 
 function opnLib() {
     /*// BG //*/
-    document.body.style.backgroundImage = "url(../U4FC36S2RX/2020/01.jpg)";
+    document.body.style.backgroundImage = "url(./U4FC36S2RX/2020/01.jpg)";
 
     /*// TAB //*/
     document.getElementById("Z81GT").style.display = "none";
